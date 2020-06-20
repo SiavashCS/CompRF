@@ -22,6 +22,7 @@ Related paper: Shervashidze, Nino, et al. "Weisfeiler-lehman graph kernels." JML
 https://lvdmaaten.github.io/ste/Stochastic_Triplet_Embedding.html
 Related paper: L.J.P. van der Maaten and K.Q. Weinberger. Stochastic Triplet Embedding. In MLSP , 2012.
 
-In case of problems with code or any questions you can contact me via the following email:
+In case of problems with code or any questions you can contact me via the following emails:
 
 haghiri [at] informatik.uni-tuebingen.de
+siyavash.haghiri [at] gmail.com
